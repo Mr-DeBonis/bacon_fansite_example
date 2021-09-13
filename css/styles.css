@@ -1,0 +1,32 @@
+/************************************TAG SECTION************************************/
+h1{
+    font-size: 150px;
+    color: red;
+}
+
+
+img{
+    height: 120px;
+}
+
+img:hover{
+    background-color: goldenrod;
+}
+
+/************************************CLASS SECTION************************************/
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/*************************************ID SECTION*************************************/
+#heading{
+    color: crimson ;
+}
